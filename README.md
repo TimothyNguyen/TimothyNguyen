@@ -1,3 +1,6 @@
+Website in Progress:
+https://timothynguyen.github.io/TimothyNguyen/
+
 ### Hi there 👋
 - 🔭 I’m currently a junior at UMass Amherst studying Computer Science and Statistics. 
 - 🌱 I’m currently learning a lot of things. I'm taking six courses this semester: Algorithms for Data Science, Natural Language Processing, Artificial Intelligence, Databases, Applications of Linear Algebra, and an independent study. I'm also looking to improve my skills in web technologies such as React.js, Node.js, Angular.js, etc...
