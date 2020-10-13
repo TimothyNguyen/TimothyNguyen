@@ -31,21 +31,35 @@ function AboutPage(props){
                         </span>
                         </h1>
                     </Col>
-                    <Row style={{
-                        letterSpacing: "1px",
-                        marginBottom: "10px",
-                    }}>
-                        <Col style={center}>
-                            <h6 style={{fontWeight:
-                                "300 !important",
-                            fontSize: "1.4rem",
-                            lineHeight: "1.5"}}>
-                                I'm <strong>Timothy Nguyen</strong> and I am a junior at UMass Amherst studying Computer Science and Statistics.
-                                I'm an aspiring software engineer and initiator in technology and I am currently
-                                looking for internship roles in Software Engineering for the Spring and/or Summer of 2021.
-                            </h6>
+                    <Col style={center}>
+                        <h6 style={{fontWeight:
+                            "300 !important",
+                        fontSize: "1.4rem",
+                        lineHeight: "1.5"}}>
+                            I'm <strong>Timothy Nguyen</strong> and I am a junior at UMass Amherst studying Computer Science and Statistics.
+                            I'm an aspiring software engineer and initiator in technology and I am currently
+                            looking for internship roles in Software Engineering for the Spring and/or Summer of 2021.
+                        </h6>
+                    </Col>
+                    {/*
+                    <Row style={center}>
+                        <Col style={{
+                            textAlign: left
+                        }}>
+                            <StyledButton
+                                icon={faLinkedin}
+                                url={
+                                    "https://www.linkedin.com/in/timothy-nguyen-414525144/"
+                                }
+                                text={"LinkedIn"}
+                                primaryColor={colors.linkedin}
+                                secondaryColor={
+                                    colors.whitecolor
+                                }
+                            />
                         </Col>
                     </Row>
+                    */}
                 </div>
             </Container>
         </div>
