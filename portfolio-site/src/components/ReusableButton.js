@@ -29,7 +29,7 @@ class ReusableButton extends Component {
                &nbsp;&nbsp;
                 <Button variant="light"
                     style={style}
-                    onClick= {() => this.handleUrl("./resume")}>
+                    onClick= {() => this.handleUrl("./SWEResume.pdf")}>
                     <FaFilePdf size={70}/>   
                 </Button>       
            </div>
