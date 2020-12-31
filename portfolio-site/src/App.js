@@ -19,12 +19,12 @@ function App() {
   return (
     <>
       <Container className="p-0" fluid={true}>
-        <Navbar className="border-bottom" bg="transparent" expand="lg">
-          <Navbar.Brand>Home</Navbar.Brand>
-        </Navbar>
         <ThemeProvider theme={themeMode}>
           <>
             <GlobalStyles/>
+            <Navbar className="border-bottom" bg={themeMode} variant={themeMode} expand="lg">
+              <Navbar.Brand>Home</Navbar.Brand>
+            </Navbar>
             <Toggle theme={theme} toggleTheme={themeToggler} />
             <BrowserRouter>
               <Switch>
@@ -39,5 +39,13 @@ function App() {
     </>
   );
 }   
+
+const center = {
+  color: 'white',
+  display: "flex",
+  fontSize: '1.1 rem',
+  textHeight: "1.5",
+  textAlign: "center"
+};
 
 export default App;

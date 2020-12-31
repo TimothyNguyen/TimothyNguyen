@@ -43,11 +43,9 @@ function AboutPage(props){
                             looking for internship roles in Software Engineering for Fall 2021.
                         </h6>
                     </Col>
-                    
                     <Row style={center}>
                         <ReusableButton />
-                    </Row>
-                            
+                    </Row>  
                 </div>
             </Container>
         </div>
