@@ -39,8 +39,7 @@ function AboutPage(props){
                         fontSize: "1.4rem",
                         lineHeight: "1.5"}}>
                             I'm <strong>Timothy Nguyen</strong> and I am a junior at UMass Amherst studying Computer Science and Statistics.
-                            I'm an aspiring software engineer and initiator in technology and I am currently
-                            looking for internship roles in Software Engineering for Fall 2021.
+                            I'm an aspiring software engineer and initiator in technology.
                         </h6>
                     </Col>
                     <Row style={center}>
