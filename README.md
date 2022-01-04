@@ -2,10 +2,10 @@ Website in Progress:
 https://timothynguyen.github.io/TimothyNguyen/
 
 ### Hi there 👋
-- 🔭 I’m currently a rising senior at UMass Amherst doing a dual degree in Computer Science and Mathematics with a concentration of Statistics & Data Science. 
+- 🔭 I’m currently a senior at UMass Amherst doing a dual degree in Computer Science and Mathematics with a concentration of Statistics & Data Science. 
 - 🌱 I’m currently interested working on Scalable Web & Mobile Systems, AI/ML, Recommender Systems, and NLP.
 - 👯 I’m looking to collaborate on new BUILD Projects. If you are a non-profit, startup, or organization, please reach out to us at https://docs.google.com/forms/d/e/1FAIpQLSdgJleAXlmn_7wjLUz9xUQAyssP5C7L08b1TH5QS57lrk9vVA/viewform.
-- 🤔 I'll be interning at Dell Technologies for Summer 2021 & MathWorks for Fall 2021.
+- 🤔 Incoming SWE @ Mastercard (8/2022) & Previous Intern @ MathWorks, Dell, STR
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/timothy-nguyen-414525144/
 - 😄 Pronouns: He/Him/His
