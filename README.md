@@ -2,10 +2,13 @@ Website in Progress:
 https://timothynguyen.github.io/TimothyNguyen/
 
 ### Hi there 👋
-- 🔭 I’m currently a senior at UMass Amherst doing a dual degree in Computer Science and Mathematics with a concentration of Statistics & Data Science. 
-- 🌱 I’m currently interested working on Scalable Web & Mobile Systems, AI/ML, Recommender Systems, and NLP.
-- 👯 I’m looking to collaborate on new BUILD Projects. If you are a non-profit, startup, or organization, please reach out to us at https://docs.google.com/forms/d/e/1FAIpQLSdgJleAXlmn_7wjLUz9xUQAyssP5C7L08b1TH5QS57lrk9vVA/viewform.
-- 🤔 Previous Intern @ MathWorks, Dell, STR
+- 🔭 I’m currently a Software Engineer at Mastercard working on modernizing & scaling applications on the Test & Learn Platform
+- 🌱 Things I'm interested in tech:
+    - Software Architecture, Natural Language Processing, Algorithms, Visualization, and more!
+- 🌱 Things I'm interested in general:
+    - YouTube, Personal Finance, Playing Guitar, Basketball
+- 👯 I'm looking to collaborate on new ventures within the YouTube or tech space
+- 🤔 Graduated @UMass Amherst 2022 CS + Stats 2022. Previously Intern @ MathWorks, Dell, STR
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/timothy-nguyen-414525144/
 - 😄 Pronouns: He/Him/His
