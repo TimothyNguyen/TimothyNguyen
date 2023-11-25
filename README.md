@@ -2,7 +2,7 @@ Website in Progress:
 https://timothynguyen.github.io/TimothyNguyen/
 
 ### Hi there 👋
-- 🔭 I’m currently a Software Engineer at Mastercard working on modernizing & scaling applications on the Test & Learn Platform
+- 🔭 I’m currently a Software Engineer working on modernizing & scaling applications on the Test & Learn Platform
 - 🌱 Things I'm interested in tech:
     - Software Architecture, Natural Language Processing, Algorithms, Visualization, and more!
 - 🌱 Things I'm interested in general:
