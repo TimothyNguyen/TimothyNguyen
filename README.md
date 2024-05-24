@@ -1,5 +1,4 @@
-Website in Progress:
-https://timothynguyen.github.io/TimothyNguyen/
+Website: https://home-khaki-three.vercel.app
 
 ### Hi there 👋
 - 🔭 I’m currently a Software Engineer working on modernizing & scaling applications on the Test & Learn Platform
